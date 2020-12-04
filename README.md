@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## View my stats
-_if HTML is up there it is because to a family website :P _
+_if HTML is up there it is because to a family website :P_
 <!--START_SECTION:waka-->
 ```text
 HTML     1 hr 43 mins    █████████▒░░░░░░░░░░░░░░░   37.00 % 
