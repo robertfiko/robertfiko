@@ -4,6 +4,9 @@
 _if HTML is up there it is because to a family website :P_
 <!--START_SECTION:waka-->
 ```text
+C++      5 hrs 18 mins   ██████████████░░░░░░░░░░░   56.27 % 
+GLSL     2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
+Erlang   1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 ```
 <!--END_SECTION:waka-->
 
