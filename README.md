@@ -12,6 +12,10 @@ Apache Config   9 mins          █░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+[![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/main-xxx.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/main-xxx.yml)
+
+
 <!--
 **robertfiko/robertfiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
