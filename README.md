@@ -13,7 +13,7 @@ Apache Config   9 mins          █░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/main-xxx.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/main-xxx.yml)
+[![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml)
 
 
 <!--
