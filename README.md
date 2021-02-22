@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## View my stats
+### 📊 View my stats
 
 <!--START_SECTION:waka-->
 ```text
@@ -11,9 +11,24 @@ C               13 mins         █▒░░░░░░░░░░░░░░
 Apache Config   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 <!--END_SECTION:waka-->
-
-
 [![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml)
+
+---
+
+### 🔭 I’m currently working on
+- [RefactorErl](https://plc.inf.elte.hu/erlang/)
+
+---
+
+### 🌱 I’m currently learning
+- Ruby
+- Erlang
+
+---
+
+### 📫 Contact me
+[robert [] fiko [] hu](mailto:robert@fiko.hu)
+
 
 
 <!--
