@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP             2 hrs 50 mins   ██████████████████░░░░░░░   71.45 % 
-Other           24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Text            19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-C               13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Apache Config   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Ruby    1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+PHP     55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.26 % 
+C++     41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Other   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Bash    14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 <!--END_SECTION:waka-->
 [![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml)
