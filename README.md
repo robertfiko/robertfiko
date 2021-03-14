@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-C#      4 hrs 32 mins   █████████████▒░░░░░░░░░░░   53.39 % 
-C++     1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
-C       1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.03 % 
-JSON    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Other   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C#     7 hrs 15 mins   ███████████████▒░░░░░░░░░   61.60 % 
+C++    1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+C      1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+PHP    31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+JSON   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
 [![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml)
