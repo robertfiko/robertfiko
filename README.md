@@ -11,7 +11,7 @@ PHP    31 mins         █░░░░░░░░░░░░░░░░░░
 JSON   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
-[![Waka Readme](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml/badge.svg)](https://github.com/robertfiko/robertfiko/actions/workflows/wakatime_main.yml)
+
 
 ---
 
