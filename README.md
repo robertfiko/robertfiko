@@ -4,8 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    2 hrs 22 mins   ██████████████████▒░░░░░░   73.53 % 
-Text    51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.34 % 
+Ruby      4 hrs 29 mins   ██████████████████▓░░░░░░   75.17 % 
+Haskell   1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.83 % 
 ```
 <!--END_SECTION:waka-->
 
