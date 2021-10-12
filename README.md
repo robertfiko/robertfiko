@@ -16,15 +16,12 @@ Other      18 mins         ▓░░░░░░░░░░░░░░░░�
 ---
 
 ### 🔭 I’m currently working on
-- [RefactorErl](https://plc.inf.elte.hu/erlang/)
+- [RefactorErl](https://plc.inf.elte.hu/erlang/) and Erlang LS integration
+- Teaching Haskell to first semester students @ELTE Faculty of Informatics
 
 ---
 
-### 🌱 I’m currently learning
-- Ruby
-- Erlang
 
----
 
 ### 📫 Contact me
 [robert [] fiko [] hu](mailto:robert@fiko.hu)
