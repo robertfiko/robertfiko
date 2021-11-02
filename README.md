@@ -4,9 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python    1 hr 14 mins    ██████████████████████▓░░   91.11 % 
-Haskell   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Text      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Haskell   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
