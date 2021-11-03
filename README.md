@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Haskell   5 mins          █████████████████████████   100.00 % 
+Haskell   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
