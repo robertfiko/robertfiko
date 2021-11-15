@@ -16,7 +16,7 @@ Bash      13 mins         ▓░░░░░░░░░░░░░░░░░
 ---
 
 ### 🔭 I’m currently working on
-- [RefactorErl](https://plc.inf.elte.hu/erlang/) and Erlang LS integration
+- [RefactorErl](https://plc.inf.elte.hu/erlang/) and [Erlang LS](https://erlang-ls.github.io) integration
 - Teaching Haskell to first semester students @ELTE Faculty of Informatics
 
 ---
@@ -24,8 +24,8 @@ Bash      13 mins         ▓░░░░░░░░░░░░░░░░░
 
 
 ### 📫 Contact me
-[robert [] fiko [] hu](mailto:robert@fiko.hu)
-
+robert [] fiko [] hu
+[fiko.hu](https://fiko.hu)
 
 
 <!--
