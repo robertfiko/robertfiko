@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Erlang           2 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.05 % 
-Markdown         1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.80 % 
-Haskell          1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 % 
-GitIgnore file   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-textmate         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Erlang           2 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.13 % 
+Markdown         1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
+Haskell          1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+GitIgnore file   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+textmate         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
 
