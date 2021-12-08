@@ -4,11 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Haskell          5 hrs 14 mins   ████████████████▓░░░░░░░░   66.80 % 
-Markdown         1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.52 % 
-GitIgnore file   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-textmate         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-htaccess         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Haskell          5 hrs 11 mins   ████████████████████████░   95.87 % 
+Markdown         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
