@@ -4,8 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML     22 mins         █████████████▒░░░░░░░░░░░   53.96 % 
-Erlang   19 mins         ███████████▒░░░░░░░░░░░░░   45.87 % 
+Erlang   19 mins         █████████████████████████   99.63 % 
 ```
 <!--END_SECTION:waka-->
 
