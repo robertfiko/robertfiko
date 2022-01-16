@@ -2,11 +2,8 @@
 
 ### 📊 View my stats
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<!--xxSTART_SECTION:waka-->
+<!--xxEND_SECTION:waka-->
 
 
 ---
