@@ -11,6 +11,7 @@
 ### 🔭 I’m currently working on
 - [RefactorErl](https://plc.inf.elte.hu/erlang/) and [Erlang LS](https://erlang-ls.github.io) integration
 - Teaching Haskell to first semester students @ELTE Faculty of Informatics
+- An easier way to install RefactorErl, for Mac: [Homebrew installer](https://github.com/robertfiko/homebrew-referl-installer)
 
 ---
 
