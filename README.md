@@ -14,7 +14,9 @@
 - An easier way to install RefactorErl, for Mac: [Homebrew installer](https://github.com/robertfiko/homebrew-referl-installer)
 
 ---
-
+### Projects I am proud of...
+- [ThemePark Tycoon](https://szofttech.inf.elte.hu/szofttech/public/csip-42) University Project with a Freezed theme
+---
 
 
 ### 📫 Contact me
