@@ -2,8 +2,8 @@
 
 ### 📊 View my stats
 
-<!--xxSTART_SECTION:waka-->
-<!--xxEND_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ---
