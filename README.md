@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--### 📊 View my stats-->
+### 📊 View my stats
 
 <!--xxSTART_SECTION:waka-->
 <!--xxEND_SECTION:waka-->
