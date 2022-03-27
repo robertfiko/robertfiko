@@ -19,7 +19,7 @@ XML          1 min           ░░░░░░░░░░░░░░░░░
 ---
 
 ### 🔭 I’m currently working on
-- [RefactorErl](https://plc.inf.elte.hu/erlang/) and [Erlang LS](https://erlang-ls.github.io) integration
+- [RefactorErl](https://plc.inf.elte.hu/erlang/) and [Erlang LS](https://erlang-ls.github.io) | [fork](https://github.com/robertfiko/erlang_ls?organization=robertfiko&organization=robertfiko) integration 
 - Teaching Haskell to first semester students @ELTE Faculty of Informatics
 - An easier way to install RefactorErl, for Mac: [Homebrew installer](https://github.com/robertfiko/homebrew-referl-installer)
 
