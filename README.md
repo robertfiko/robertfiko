@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Erlang       4 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.55 %
-TypeScript   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+Erlang       4 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.17 %
+TypeScript   1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Other        54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 ```
 
 <!--END_SECTION:waka-->
