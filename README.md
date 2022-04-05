@@ -5,8 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Erlang       3 hrs 48 mins   ██████████████████▓░░░░░░   74.54 %
-Other        48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Erlang       3 hrs 19 mins   ███████████████████▓░░░░░   78.05 %
+Other        44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
 ```
 
 <!--END_SECTION:waka-->
