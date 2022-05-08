@@ -27,7 +27,7 @@ XML            5 mins          ░░░░░░░░░░░░░░░░�
 
 ---
 ### Projects I am proud of...
-- [ThemePark Tycoon](https://szofttech.inf.elte.hu/szofttech/public/csip-42) University Project with a Freezed theme
+- [ThemePark Tycoon](https://szofttech.inf.elte.hu/hall-of-fame/csip-42) University Project with a Freezed theme
 ---
 
 
