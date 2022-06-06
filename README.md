@@ -5,12 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Erlang       1 hr 36 mins    █████████████░░░░░░░░░░░░   51.57 %
-TypeScript   40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-TeX          28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-XML          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-BibTeX       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
