@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 ### 🌱 I’m currently learning
 - Angular Material
 - Elixir and Phoenix LiveView
