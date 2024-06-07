@@ -1,10 +1,15 @@
-## Hi there 👋
+# Robert Fiko
 
+<!--
 ### 🌱 I’m currently learning
 - Angular Material
 - Elixir and Phoenix LiveView
+-->
 
-### 👏🏻 Projects I am proud of...
+## 👨🏼‍🏫 Presentations
+- [Erlang's Path: Concurrency to Seamless Distribution](https://github.com/robertfiko/concurr_to_distr): presentation I made as a student, at the Concurrent Programming (for MSc students) at Eötvös Lóránd University
+
+## 👏🏻 Projects I am proud of
 - [ThemePark Tycoon](https://szofttech.inf.elte.hu/hall-of-fame/csip-42) University Project with a Freezed theme
 - [RefactorErl](https://plc.inf.elte.hu/erlang/) and [Erlang LS](https://erlang-ls.github.io) integration 
   - [Erlang LS fork](https://github.com/robertfiko/erlang_ls)
@@ -12,9 +17,10 @@
 
 
 
-
+<!--
 ### 📫 Contact me
 robert [] fiko [] hu
+-->
 
 [fiko.hu](https://fiko.hu)
 
